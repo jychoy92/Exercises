@@ -1,7 +1,7 @@
-# Update the following yml file to represent the "Projects" assigned to Jacob.
-# Jocob works on Multiple Porjects - "Automation" and "Support". So remeber to use a list
+# Update the following yml file to represent the "Projects" assigned to Brandon.
+# Jocob works on Multiple Porjects - "Automation" and "Solution Design". So remeber to use a list
 Employee:
-  Name: Jacob
+  Name: Brandon
   Sex: Male
-  Age: 30
+  Age: 29
   Title: Systems Engineer
