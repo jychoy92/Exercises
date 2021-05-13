@@ -1,7 +1,14 @@
 # Update the following yml file to include Brandon's pay slips.
 # Add a new property "Payslips" and create a list of pay slip details (Use list of dictionaries)
 # Each payslips detail contains "Month" and "Wage"
-
+#######################
+# ------------------- #
+# | Month   | Wage  | #
+# |---------+-------| #
+# | June    | 4000  | #
+# | July    | 4500  | #
+# | August  | 4000  | #
+# ------------------- #
 
 Employee:
   Name: Brandon
